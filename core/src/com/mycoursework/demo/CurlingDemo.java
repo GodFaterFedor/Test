@@ -23,11 +23,9 @@ public class CurlingDemo extends ApplicationAdapter {
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
-		Rectangle rect = new Rectangle(100, 100, 100, 100);
-		CircleShape circle = new CircleShape();
+
 		batch.begin();
 		batch.draw(img, 0, 0);
-		circle.
 		batch.end();
 
 	}
