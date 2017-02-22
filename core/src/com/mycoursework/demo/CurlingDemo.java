@@ -30,6 +30,7 @@ public class CurlingDemo extends ApplicationAdapter {
 		//many many
 		//many many many
 		// and another
+		// end comment
 		batch.end();
 
 	}
