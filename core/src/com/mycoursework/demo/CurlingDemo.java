@@ -26,6 +26,9 @@ public class CurlingDemo extends ApplicationAdapter {
 
 		batch.begin();
 		batch.draw(img, 0, 0);
+		//I add many comments
+		//many many
+		//many many many
 		batch.end();
 
 	}
